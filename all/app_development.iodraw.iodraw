@@ -53,7 +53,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aN5oD4nImSZfaa6GaJqb-24" value="1.预期页面&lt;div&gt;2.交互逻辑(1、2级页面)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aN5oD4nImSZfaa6GaJqb-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
