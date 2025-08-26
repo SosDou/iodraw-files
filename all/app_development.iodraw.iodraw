@@ -16,6 +16,12 @@
         <mxCell id="aN5oD4nImSZfaa6GaJqb-3" value="原型图(草图)、交互评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aN5oD4nImSZfaa6GaJqb-4" value="前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aN5oD4nImSZfaa6GaJqb-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
