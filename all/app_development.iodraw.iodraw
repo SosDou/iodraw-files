@@ -43,7 +43,7 @@
         <mxCell id="aN5oD4nImSZfaa6GaJqb-6" value="后端" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aN5oD4nImSZfaa6GaJqb-20" value="1.功能介绍&lt;div&gt;2.功能实现方式&lt;/div&gt;&lt;div&gt;3.技术栈&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aN5oD4nImSZfaa6GaJqb-20" value="1.功能介绍&lt;div&gt;2.功能实现方式&lt;/div&gt;&lt;div&gt;3.技术栈&lt;/div&gt;&lt;div&gt;4. IOS Android&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aN5oD4nImSZfaa6GaJqb-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aN5oD4nImSZfaa6GaJqb-1" target="aN5oD4nImSZfaa6GaJqb-20" edge="1">
