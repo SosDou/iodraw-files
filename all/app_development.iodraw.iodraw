@@ -5,10 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="aN5oD4nImSZfaa6GaJqb-0" value="功能评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aN5oD4nImSZfaa6GaJqb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aN5oD4nImSZfaa6GaJqb-1" target="aN5oD4nImSZfaa6GaJqb-0">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aN5oD4nImSZfaa6GaJqb-1" value="功能文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
