@@ -46,17 +46,6 @@
         <mxCell id="aN5oD4nImSZfaa6GaJqb-20" value="1.功能介绍&lt;div&gt;2.功能实现方式&lt;/div&gt;&lt;div&gt;3.技术栈&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aN5oD4nImSZfaa6GaJqb-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aN5oD4nImSZfaa6GaJqb-1" target="aN5oD4nImSZfaa6GaJqb-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="550" as="sourcePoint" />
-            <mxPoint x="430" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="430" y="550" />
-              <mxPoint x="310" y="280" />
-              <mxPoint x="380" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
