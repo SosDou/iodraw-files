@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aN5oD4nImSZfaa6GaJqb-1" value="功能文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aN5oD4nImSZfaa6GaJqb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aN5oD4nImSZfaa6GaJqb-2" target="aN5oD4nImSZfaa6GaJqb-4">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aN5oD4nImSZfaa6GaJqb-4" value="前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aN5oD4nImSZfaa6GaJqb-5" value="算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="630" width="120" height="60" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="440" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aN5oD4nImSZfaa6GaJqb-20" value="1.功能介绍&lt;div&gt;2.功能实现方式&lt;/div&gt;&lt;div&gt;3.技术栈&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
