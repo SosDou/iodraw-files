@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-9" value="首页Home Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="209" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="209" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-13" value="用户不是第一次打开App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="269" y="200" width="150" height="30" as="geometry" />
@@ -58,7 +58,7 @@
           <mxGeometry x="430" y="584.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-20" value="底部导航栏BottomNavigationBar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="194" y="320" width="200" height="30" as="geometry" />
+          <mxGeometry x="269" y="320" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
