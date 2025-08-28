@@ -230,8 +230,8 @@
         <mxCell id="OEmcqlwVba30taLlD9LG-67" value="滑块结束或点击跳过按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="246.5" y="250" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OEmcqlwVba30taLlD9LG-71" value="完成注册，返回登录页面进行登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="780" width="200" height="30" as="geometry" />
+        <mxCell id="OEmcqlwVba30taLlD9LG-71" value="完成注册，返回token到本地，把个人数据存到hive，返回登录页面进行登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="780" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-76" value="登录成功、返回首页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="840" y="830" width="130" height="30" as="geometry" />
