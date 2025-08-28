@@ -241,7 +241,7 @@
           <mxGeometry x="279.75" y="715" width="38.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-2" value="周报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="278.25" y="925" width="38.5" height="30" as="geometry" />
+          <mxGeometry x="279.75" y="870" width="38.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEmcqlwVba30taLlD9LG-14" target="x5adS6wBgyTgoFWoJzKV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -322,12 +322,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-34" value="一周的数据柱状图&lt;div&gt;一周的平均值&lt;/div&gt;&lt;div&gt;报告&lt;/div&gt;&lt;div&gt;建议&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344.75" y="905" width="110" height="70" as="geometry" />
+          <mxGeometry x="346.25" y="850" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-2" target="x5adS6wBgyTgoFWoJzKV-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="468.25" y="865" as="sourcePoint" />
-            <mxPoint x="518.25" y="815" as="targetPoint" />
+            <mxPoint x="469.75" y="810" as="sourcePoint" />
+            <mxPoint x="519.75" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-36" value="每日固定时间进行消息推送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
