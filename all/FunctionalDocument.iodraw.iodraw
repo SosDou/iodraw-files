@@ -139,13 +139,13 @@
           <mxGeometry x="520" y="650" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-47" value="语言设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="730" width="70" height="30" as="geometry" />
+          <mxGeometry x="520" y="690" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-48" value="推送通知设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="820" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-49" value="协议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="900" width="50" height="60" as="geometry" />
+          <mxGeometry x="520" y="900" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
