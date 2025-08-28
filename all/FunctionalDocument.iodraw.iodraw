@@ -275,8 +275,14 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-11" value="编辑列表&lt;div&gt;（用户选择置顶的具体数据）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="440" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-12" target="x5adS6wBgyTgoFWoJzKV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-12" value="置顶的健康数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-16" target="x5adS6wBgyTgoFWoJzKV-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-16" value="显示所有健康数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="600" width="110" height="30" as="geometry" />
@@ -300,7 +306,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-20" value="一周的数据柱状图（仅显示今日具体数据），&lt;span style=&quot;background-color: initial;&quot;&gt;或今天一段时间的曲线图&lt;/span&gt;&lt;div&gt;摘要&lt;span style=&quot;background-color: initial;&quot;&gt;（今天与某段时间的平均值作比较）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="510" width="380" height="60" as="geometry" />
+          <mxGeometry x="730" y="540" width="380" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
