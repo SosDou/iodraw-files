@@ -279,13 +279,13 @@
           <mxGeometry x="560" y="500" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-13" value="副标题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="480" width="50" height="20" as="geometry" />
+          <mxGeometry x="685" y="480" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-14" value="柱状图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="685" y="510" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-15" value="一个数据（时间或次数等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="685" y="540" width="60" height="20" as="geometry" />
+          <mxGeometry x="685" y="540" width="155" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
