@@ -243,7 +243,7 @@
           <mxGeometry x="540" y="310" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vqtSPHZRs-Iv1OLfsIPI-3" value="在本地 Hive/SharedPreferences 保存设置或偏好" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="760" y="728" width="280" height="30" as="geometry" />
+          <mxGeometry x="770" y="730" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
