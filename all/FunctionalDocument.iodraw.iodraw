@@ -234,7 +234,7 @@
           <mxGeometry x="1026.81" y="1230" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-76" value="Dio 网络请求&lt;div&gt;登录成功、返回首页&lt;/div&gt;&lt;div&gt;在本地 Hive/SharedPreferences 保存设置或偏好&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="530" y="1350" width="280" height="60" as="geometry" />
+          <mxGeometry x="800" y="1305" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-1" value="日报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279.75" y="875" width="38.5" height="30" as="geometry" />
