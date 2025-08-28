@@ -125,6 +125,9 @@
         <mxCell id="OEmcqlwVba30taLlD9LG-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-34" target="OEmcqlwVba30taLlD9LG-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="655.5600000000002" y="1185.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="772" y="1185" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-34" value="头像为默认&lt;br&gt;点击跳转" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -147,9 +150,6 @@
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-36" value="登出按钮 Logout" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="508.25" y="1090" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OEmcqlwVba30taLlD9LG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-36" target="OEmcqlwVba30taLlD9LG-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-43" value="已登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="278.25" y="1100" width="60" height="30" as="geometry" />
