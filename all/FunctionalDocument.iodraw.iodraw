@@ -275,6 +275,9 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-11" value="编辑列表&lt;div&gt;（用户选择置顶的具体数据）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="430" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
