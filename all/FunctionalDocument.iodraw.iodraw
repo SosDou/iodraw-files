@@ -263,8 +263,8 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-6" value="置顶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="490" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-7" value="分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="540" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
