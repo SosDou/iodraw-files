@@ -312,7 +312,7 @@
           <mxGeometry x="560" y="660" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-27" value="介绍相关知识、提出建议、点击查看相关文章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="720" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
