@@ -245,6 +245,9 @@
         <mxCell id="vqtSPHZRs-Iv1OLfsIPI-3" value="在本地 Hive/SharedPreferences 保存设置或偏好" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="840" y="860" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
