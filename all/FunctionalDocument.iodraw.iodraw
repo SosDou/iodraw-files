@@ -61,7 +61,7 @@
           <mxGeometry x="269" y="290" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-21" value="蓝牙Bluetooth Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="260" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
