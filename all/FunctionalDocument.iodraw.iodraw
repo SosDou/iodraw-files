@@ -233,6 +233,9 @@
         <mxCell id="OEmcqlwVba30taLlD9LG-71" value="完成注册，返回登录页面进行登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1090" y="650" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OEmcqlwVba30taLlD9LG-76" value="登录成功、返回首页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="725" y="708" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
