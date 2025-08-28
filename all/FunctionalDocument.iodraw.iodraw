@@ -211,7 +211,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-56" value="注册页面Logup Page" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="931.81" y="1020" width="130" height="30" as="geometry" />
+          <mxGeometry x="907.75" y="1020" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-58" value="输入手机号或邮箱、同意协议获取验证码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1061.81" y="1005" width="240" height="30" as="geometry" />
