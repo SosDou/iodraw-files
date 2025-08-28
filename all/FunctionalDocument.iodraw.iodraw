@@ -248,8 +248,8 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-1" value="日报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-2" value="周报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381.5" y="570" width="38.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
