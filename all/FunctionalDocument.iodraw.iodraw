@@ -278,6 +278,9 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-12" value="置顶的今日数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
