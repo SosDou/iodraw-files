@@ -365,8 +365,8 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-38" value="综合评分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-39" value="睡眠质量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
