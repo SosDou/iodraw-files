@@ -216,7 +216,7 @@
           <mxGeometry x="590" y="180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-67" value="滑块结束或点击跳过按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="218" width="160" height="30" as="geometry" />
+          <mxGeometry x="246.5" y="250" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
