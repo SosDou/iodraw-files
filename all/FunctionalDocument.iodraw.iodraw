@@ -228,6 +228,9 @@
         <mxCell id="OEmcqlwVba30taLlD9LG-67" value="滑块结束或点击跳过按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="246.5" y="250" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OEmcqlwVba30taLlD9LG-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
