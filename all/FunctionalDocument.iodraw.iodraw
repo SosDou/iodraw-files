@@ -162,7 +162,7 @@
           <mxGeometry x="514.5" y="1240" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-47" value="语言设置 flutter_localizations" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="514.5" y="1280" width="265.5" height="30" as="geometry" />
+          <mxGeometry x="514.5" y="1280" width="175.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-48" value="推送通知设置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="514.5" y="1320" width="90" height="30" as="geometry" />
@@ -442,6 +442,9 @@
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-71" value="蓝牙连接按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="254.5" y="290" width="91.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-73" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="808" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
