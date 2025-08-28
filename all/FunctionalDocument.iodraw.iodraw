@@ -189,7 +189,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-56" value="注册页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="497.5" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
