@@ -432,11 +432,14 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-58" value="建议、文章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="254.25" y="1560" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-59" target="x5adS6wBgyTgoFWoJzKV-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-59" value="副标题&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 图&lt;/div&gt;&lt;div&gt;数据&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334.25" y="1390" width="146.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-60" value="一周的柱状图&lt;div&gt;今日与平均值的比较&lt;/div&gt;&lt;div&gt;关于副标题的一些介绍&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="1390" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
