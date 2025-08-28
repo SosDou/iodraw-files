@@ -236,8 +236,8 @@
         <mxCell id="OEmcqlwVba30taLlD9LG-76" value="登录成功、返回首页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="770" y="700" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vqtSPHZRs-Iv1OLfsIPI-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="248" width="50" height="30" as="geometry" />
+        <mxCell id="vqtSPHZRs-Iv1OLfsIPI-1" value="flutter_blue_plus&lt;div&gt;大部分 BLE 设备，如智能手环、传感器&lt;br&gt;&lt;/div&gt;&lt;div&gt;学习成本较低&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="233" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
