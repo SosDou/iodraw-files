@@ -141,6 +141,9 @@
         <mxCell id="OEmcqlwVba30taLlD9LG-47" value="语言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OEmcqlwVba30taLlD9LG-48" value="推送通知设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
