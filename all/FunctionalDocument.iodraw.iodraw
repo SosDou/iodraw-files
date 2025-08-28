@@ -239,11 +239,11 @@
         <mxCell id="vqtSPHZRs-Iv1OLfsIPI-1" value="flutter_blue_plus&lt;div&gt;大部分 BLE 设备，如智能手环、传感器&lt;br&gt;&lt;/div&gt;&lt;div&gt;学习成本较低&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="235" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vqtSPHZRs-Iv1OLfsIPI-2" value="flutter_reactive_ble&lt;div&gt;更适合复杂蓝牙通信和多设备管理&lt;/div&gt;&lt;div&gt;使用需要实时数据流&lt;/div&gt;&lt;div&gt;学习成本较高&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="310" width="200" height="90" as="geometry" />
+        <mxCell id="vqtSPHZRs-Iv1OLfsIPI-2" value="flutter_reactive_ble&lt;div&gt;更适合复杂蓝牙通信和多设备管理&lt;/div&gt;&lt;div&gt;使用需要实时数据流&lt;/div&gt;&lt;div&gt;学习成本较高&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="320" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vqtSPHZRs-Iv1OLfsIPI-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="875" y="728" width="50" height="30" as="geometry" />
+        <mxCell id="vqtSPHZRs-Iv1OLfsIPI-3" value="在本地 Hive/SharedPreferences 保存设置或偏好" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="728" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
