@@ -465,8 +465,8 @@
             <mxPoint x="390" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-66" value="进行每日固定时间段的消息推送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350.62" y="1500" width="183" height="30" as="geometry" />
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-66" value="每日固定时间段的消息推送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350.62" y="1500" width="159.38" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
