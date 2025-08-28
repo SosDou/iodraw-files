@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="BBDqMXSftzrG6VGUTATS">
-    <mxGraphModel dx="1062" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,7 +303,7 @@
             <mxPoint x="593.5" y="695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-20" value="一周的数据柱状图（仅显示今日具体数据），&lt;span style=&quot;background-color: initial;&quot;&gt;或今天一段时间的曲线图&lt;/span&gt;&lt;div&gt;摘要&lt;span style=&quot;background-color: initial;&quot;&gt;（今天与某段时间的平均值作比较）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-20" value="今日具体数据在一周的数据图&lt;div&gt;摘要&lt;span style=&quot;background-color: initial;&quot;&gt;（今天与某段时间的平均值作比较）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="603.5" y="695" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-26" target="x5adS6wBgyTgoFWoJzKV-36">
