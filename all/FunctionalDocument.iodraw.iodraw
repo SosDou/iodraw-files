@@ -122,13 +122,8 @@
         <mxCell id="OEmcqlwVba30taLlD9LG-33" value="用户昵称、头像图片" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358.25" y="1090" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OEmcqlwVba30taLlD9LG-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-34" target="OEmcqlwVba30taLlD9LG-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="655.5600000000002" y="1185.0000000000002" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="772" y="1185" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OEmcqlwVba30taLlD9LG-34" target="OEmcqlwVba30taLlD9LG-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-34" value="头像为默认&lt;br&gt;点击跳转" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358.25" y="1165" width="80" height="40" as="geometry" />
