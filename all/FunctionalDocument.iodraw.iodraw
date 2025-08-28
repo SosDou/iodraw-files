@@ -308,7 +308,7 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-20" value="一周的数据柱状图（仅显示今日具体数据），&lt;span style=&quot;background-color: initial;&quot;&gt;或今天一段时间的曲线图&lt;/span&gt;&lt;div&gt;摘要&lt;span style=&quot;background-color: initial;&quot;&gt;（今天与某段时间的平均值作比较）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="540" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-26" value="一些对今日健康数据的分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
