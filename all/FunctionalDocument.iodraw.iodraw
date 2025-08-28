@@ -350,11 +350,14 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-34" value="一周的数据柱状图&lt;div&gt;一周的平均值&lt;/div&gt;&lt;div&gt;报告&lt;/div&gt;&lt;div&gt;建议&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="466.5" y="810" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-2" target="x5adS6wBgyTgoFWoJzKV-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="770" as="sourcePoint" />
             <mxPoint x="640" y="720" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
