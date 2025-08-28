@@ -243,7 +243,7 @@
           <mxGeometry x="540" y="310" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-1" value="日报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="680" width="38.5" height="30" as="geometry" />
+          <mxGeometry x="400" y="520" width="38.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-2" value="周报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="730" width="38.5" height="30" as="geometry" />
