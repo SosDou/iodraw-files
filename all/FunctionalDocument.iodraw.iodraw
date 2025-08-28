@@ -138,8 +138,8 @@
         <mxCell id="OEmcqlwVba30taLlD9LG-46" value="软件更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="650" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OEmcqlwVba30taLlD9LG-47" value="语言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="730" width="120" height="40" as="geometry" />
+        <mxCell id="OEmcqlwVba30taLlD9LG-47" value="语言设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="730" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-48" value="推送通知设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="820" width="120" height="60" as="geometry" />
