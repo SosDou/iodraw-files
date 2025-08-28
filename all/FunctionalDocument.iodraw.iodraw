@@ -368,11 +368,11 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-39" value="睡眠质量（结果、分析等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="510" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-40" value="睡眠习惯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-40" value="睡眠习惯（结果、分析等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="590" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-41" value="睡眠认知（结果、分析等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="550" width="70" height="30" as="geometry" />
+          <mxGeometry x="480" y="550" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-42" value="结果&lt;br&gt;三部分的雷达图图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="460" width="120" height="50" as="geometry" />
