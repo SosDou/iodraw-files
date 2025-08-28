@@ -303,7 +303,7 @@
           <mxGeometry x="770" y="520" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-21" value="摘要&lt;div&gt;（今天与某段时间的平均值作比较）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="610" width="200" height="50" as="geometry" />
+          <mxGeometry x="770" y="610" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
