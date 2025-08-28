@@ -255,7 +255,7 @@
             <mxPoint x="323.5" y="825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-6" value="置顶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-6" value="健康数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353.5" y="695" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-7" value="分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -304,7 +304,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-20" value="今日具体数据在一周的数据图&lt;div&gt;摘要&lt;span style=&quot;background-color: initial;&quot;&gt;（今天与某段时间的平均值作比较）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="603.5" y="695" width="380" height="60" as="geometry" />
+          <mxGeometry x="603.5" y="695" width="236.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-26" target="x5adS6wBgyTgoFWoJzKV-36">
           <mxGeometry relative="1" as="geometry" />
