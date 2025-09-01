@@ -335,8 +335,8 @@
             <mxPoint x="550.5" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HFUhyjvVrJ5VhTOybcHS-3" value="方案A：分析+报告 ——》建议&lt;div&gt;方案B：分析&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;——》报告+建议&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="451.5" y="917.5" width="190" height="40" as="geometry" />
+        <mxCell id="HFUhyjvVrJ5VhTOybcHS-3" value="方案A：分析+报告&amp;nbsp;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;→&amp;nbsp;&lt;/span&gt;建议&lt;div&gt;方案B：分析&amp;nbsp;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;→&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;报告+建议&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="461.5" y="917.5" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
