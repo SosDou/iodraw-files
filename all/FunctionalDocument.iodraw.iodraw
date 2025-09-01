@@ -206,8 +206,8 @@
         <mxCell id="OEmcqlwVba30taLlD9LG-67" value="滑块结束或点击跳过按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="171" y="380" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OEmcqlwVba30taLlD9LG-71" value="完成注册，返回 token 到本地，返回登录页面进行登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1029.5" y="1370" width="310" height="30" as="geometry" />
+        <mxCell id="OEmcqlwVba30taLlD9LG-71" value="完成注册，返回 token 到本地，进行自动登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1054.5" y="1370" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-76" value="Dio 网络请求&lt;div&gt;登录成功、返回首页&lt;/div&gt;&lt;div&gt;在本地 Hive/SharedPreferences 保存设置或偏好&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="1455" width="280" height="60" as="geometry" />
