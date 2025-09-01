@@ -248,8 +248,8 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-58" value="建议、专业性文章" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275.63" y="930" width="115.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-60" value="今日数据在周月年的柱状图&lt;div&gt;今日与平均值的比较&lt;/div&gt;&lt;div&gt;关于副标题的一些介绍、文章&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="373.13" y="820" width="163" height="60" as="geometry" />
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-60" value="数值、柱状图&lt;br&gt;点击跳转到详细页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="373.13" y="820" width="163" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-63" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x5adS6wBgyTgoFWoJzKV-55" target="x5adS6wBgyTgoFWoJzKV-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -363,14 +363,14 @@
             <mxPoint x="350" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6O7jYfjr5g0XonRrvN5Y-9">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6O7jYfjr5g0XonRrvN5Y-9" target="6O7jYfjr5g0XonRrvN5Y-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="560" as="sourcePoint" />
             <mxPoint x="290" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-12" value="睡眠质量上升 or 下降&lt;div&gt;建议&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291.26" y="430" width="138.74" height="50" as="geometry" />
+          <mxGeometry x="301" y="430" width="138.74" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
