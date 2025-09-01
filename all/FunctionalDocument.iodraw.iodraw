@@ -205,7 +205,7 @@
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="x5adS6wBgyTgoFWoJzKV-56" target="x5adS6wBgyTgoFWoJzKV-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-56" value="健康数据&lt;div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;睡眠质量总得分（多指标模型）&lt;/div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;总睡眠时长&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;入睡用时&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;觉醒次数&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;浅睡眠阶段1、2&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;深睡眠&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;快速眼动期&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;ces&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-56" value="健康数据&lt;div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;总睡眠时长&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;入睡用时&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;觉醒次数&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;浅睡眠阶段1、2&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;深睡眠&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;快速眼动期&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;ces&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325.69" y="780" width="184.37" height="145" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-57" value="分析&lt;div&gt;1.呈现客观指标&lt;/div&gt;&lt;div&gt;2.说明指标背后的意义&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -320,7 +320,7 @@
           <mxGeometry x="461.06" y="1007.5" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-5" value="一句话睡眠质量总结" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325.69" y="730" width="124.31" height="30" as="geometry" />
+          <mxGeometry x="324.44" y="730" width="124.31" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-55" target="HFUhyjvVrJ5VhTOybcHS-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
