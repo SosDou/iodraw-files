@@ -63,31 +63,31 @@
           <mxGeometry x="85.5" y="800" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-21" value="蓝牙页面Bluetooth Page" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="490" width="148.25" height="30" as="geometry" />
+          <mxGeometry x="383.25" y="435" width="148.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-23" value="设备开启按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="254.5" y="535" width="75.5" height="30" as="geometry" />
+          <mxGeometry x="247.75" y="480" width="75.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-24" value="开头" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="176.75" y="510" width="50" height="30" as="geometry" />
+          <mxGeometry x="170" y="455" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-24" target="x5adS6wBgyTgoFWoJzKV-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="91.75" y="620" as="sourcePoint" />
-            <mxPoint x="141.75" y="570" as="targetPoint" />
+            <mxPoint x="85" y="565" as="sourcePoint" />
+            <mxPoint x="135" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-24" target="OEmcqlwVba30taLlD9LG-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="91.75" y="620" as="sourcePoint" />
-            <mxPoint x="141.75" y="570" as="targetPoint" />
+            <mxPoint x="85" y="565" as="sourcePoint" />
+            <mxPoint x="135" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-27" target="x5adS6wBgyTgoFWoJzKV-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-27" value="选择设备的模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="176.75" y="590" width="105" height="30" as="geometry" />
+          <mxGeometry x="170" y="535" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-31" target="OEmcqlwVba30taLlD9LG-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -225,10 +225,10 @@
           <mxGeometry x="800" y="1455" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-50" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;flutter_blue_plus&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;适合大部分蓝牙设备，如手环、传感器&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;学习成本较低&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="554.5" y="550" width="220" height="60" as="geometry" />
+          <mxGeometry x="547.75" y="495" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-51" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;flutter_reactive_ble&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;更适合复杂蓝牙通信和多设备管理&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;使用需要实时数据流&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;学习成本较高&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="554.5" y="480" width="190" height="60" as="geometry" />
+          <mxGeometry x="547.75" y="425" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-55" value="摘要页面Abstract Page&lt;div&gt;报告页面Report Page&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125.5" y="990" width="130" height="40" as="geometry" />
@@ -276,13 +276,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-71" value="蓝牙连接按钮&lt;div&gt;设备电量&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="254.5" y="485" width="91.75" height="40" as="geometry" />
+          <mxGeometry x="247.75" y="430" width="91.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-85" value="更多" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="286.5" y="580" width="50" height="30" as="geometry" />
+          <mxGeometry x="279.75" y="525" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-86" value="更多模式页面More Model Page" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="338.25" y="592.5" width="180" height="25" as="geometry" />
+          <mxGeometry x="331.5" y="537.5" width="180" height="25" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-95" value="用户提交问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="248.25" y="1655" width="95.5" height="30" as="geometry" />
