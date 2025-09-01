@@ -329,8 +329,8 @@
             <mxPoint x="340" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="618" width="50" height="30" as="geometry" />
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-3" value="总睡眠时长&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;入睡潜伏期&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;觉醒次数&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;浅睡眠阶段1、2&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;深睡眠&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;快速眼动期&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ces&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="518" width="110" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
