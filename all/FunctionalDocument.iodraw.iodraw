@@ -206,7 +206,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-56" value="健康数据(日周月数据图)&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;1.总睡眠时长&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;2.入睡潜伏期&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;3.觉醒次数&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;4.睡眠效率&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;5.睡眠片段化指数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="325.69" y="780" width="234.31" height="95" as="geometry" />
+          <mxGeometry x="321.6" y="785" width="234.31" height="95" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-57" value="分析&lt;div&gt;1.呈现客观指标（&lt;span style=&quot;background-color: initial;&quot;&gt;入睡潜伏期 35 分钟&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2.对数据进行分析（&lt;span style=&quot;background-color: initial;&quot;&gt;入睡偏慢&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="328.07" y="900" width="214.31" height="60" as="geometry" />
@@ -335,7 +335,7 @@
           <mxGeometry x="631.06" y="895" width="139.76" height="302.73" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-11" value="日数据图&lt;div&gt;总睡眠时长（清醒时间、快速动眼...）&lt;/div&gt;&lt;div&gt;入睡用时（何时闭眼、何时入睡）&lt;/div&gt;&lt;div&gt;觉醒次数（当晚何时觉醒）&lt;/div&gt;&lt;div&gt;ces（在上图中显示介入的时间段，在下面显示效果，如：入睡潜伏期缩短到 15 分钟，深睡眠提升到 20%）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;周、月数据图&lt;/div&gt;&lt;div&gt;这个时间段的平均值&lt;/div&gt;&lt;div&gt;每一天的柱状图&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="1003.7" width="590" height="140" as="geometry" />
+          <mxGeometry y="1036.5800000000002" width="590" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
