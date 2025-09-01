@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="BBDqMXSftzrG6VGUTATS">
-    <mxGraphModel dx="4695" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,7 +335,7 @@
           <mxGeometry x="631.06" y="895" width="139.76" height="302.73" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-11" value="日数据图&lt;div&gt;总睡眠时长（清醒时间、快速动眼...）&lt;/div&gt;&lt;div&gt;入睡用时（何时闭眼、何时入睡）&lt;/div&gt;&lt;div&gt;觉醒次数（当晚何时觉醒）&lt;/div&gt;&lt;div&gt;ces（在上图中显示介入的时间段，在下面显示效果，如：入睡潜伏期缩短到 15 分钟，深睡眠提升到 20%）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;周、月数据图&lt;/div&gt;&lt;div&gt;这个时间段的平均值&lt;/div&gt;&lt;div&gt;每一天的柱状图&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1047.5" width="590" height="140" as="geometry" />
+          <mxGeometry y="1003.7" width="590" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
