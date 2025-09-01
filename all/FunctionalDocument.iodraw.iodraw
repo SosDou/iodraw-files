@@ -316,9 +316,6 @@
             <mxPoint x="550.06" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HFUhyjvVrJ5VhTOybcHS-3" value="方案A：分析+报告&amp;nbsp;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;→&amp;nbsp;&lt;/span&gt;建议&lt;div&gt;方案B：分析&amp;nbsp;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;→&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;报告+建议&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="461.06" y="1007.5" width="170" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-5" value="一句话睡眠质量总结&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;睡眠质量得分&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong data-end=&quot;199&quot; data-start=&quot;189&quot;&gt;关键指标速览&lt;/strong&gt;：总时长、&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;入睡用时&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325.69" y="650" width="194.31" height="50" as="geometry" />
         </mxCell>
@@ -338,7 +335,7 @@
           <mxGeometry x="631.06" y="895" width="139.76" height="302.73" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-11" value="日数据图&lt;div&gt;总睡眠时长（清醒时间、快速动眼...）&lt;/div&gt;&lt;div&gt;入睡用时（何时闭眼、何时入睡）&lt;/div&gt;&lt;div&gt;觉醒次数（当晚何时觉醒）&lt;/div&gt;&lt;div&gt;ces（在上图中显示介入的时间段，在下面显示效果，如：入睡潜伏期缩短到 15 分钟，深睡眠提升到 20%）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;周、月数据图&lt;/div&gt;&lt;div&gt;这个时间段的平均值&lt;/div&gt;&lt;div&gt;每一天的柱状图&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-51.75" y="1022.5" width="590" height="140" as="geometry" />
+          <mxGeometry x="-30" y="1047.5" width="590" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
