@@ -335,13 +335,16 @@
           <mxGeometry x="950" y="730" width="139.76" height="302.73" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-13" value="睡眠质量图&lt;div&gt;&lt;br&gt;&lt;div&gt;日&lt;/div&gt;&lt;div&gt;1.N1 → N2 → N3 → REM循环&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.何时闭眼、入睡、中途觉醒、ces介入&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.睡眠深度&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="147.88" y="1035" width="230" height="100" as="geometry" />
+          <mxGeometry x="121" y="1025" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-17" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="1075" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-18" value="入睡潜伏期图&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;日&lt;/div&gt;&lt;div&gt;1.从上床时间到入睡的时间&lt;/div&gt;&lt;div&gt;2.睡眠深度&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="372.38" y="1018" width="170" height="90" as="geometry" />
+          <mxGeometry x="356.13" y="1030" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HFUhyjvVrJ5VhTOybcHS-19" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;周、月&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;1.一段时间段的平均值&lt;/div&gt;&lt;div&gt;2.每一天的柱状图&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="226" y="1139" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
