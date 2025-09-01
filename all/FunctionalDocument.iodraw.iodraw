@@ -358,6 +358,9 @@
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-23" value="切换到日" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="415" y="978" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HFUhyjvVrJ5VhTOybcHS-24" value="切换到更长时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="958" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
