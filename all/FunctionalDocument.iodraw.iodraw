@@ -335,7 +335,7 @@
           <mxGeometry x="470" y="1075" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-19" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;周、月图&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;图表上方 时间段的平均值&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;X轴 按日排序的时间线&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Y轴 当日该项的数值&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="719.13" y="776.25" width="160" height="90" as="geometry" />
+          <mxGeometry x="710" y="840" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-21" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HFUhyjvVrJ5VhTOybcHS-13" target="x5adS6wBgyTgoFWoJzKV-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -343,7 +343,7 @@
             <mxPoint x="690" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HFUhyjvVrJ5VhTOybcHS-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HFUhyjvVrJ5VhTOybcHS-19" target="x5adS6wBgyTgoFWoJzKV-60">
+        <mxCell id="HFUhyjvVrJ5VhTOybcHS-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HFUhyjvVrJ5VhTOybcHS-19" target="x5adS6wBgyTgoFWoJzKV-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="1070" as="sourcePoint" />
             <mxPoint x="690" y="1020" as="targetPoint" />
