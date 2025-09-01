@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="BBDqMXSftzrG6VGUTATS">
-    <mxGraphModel dx="1969" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEmcqlwVba30taLlD9LG-5" target="OEmcqlwVba30taLlD9LG-35">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-5" target="OEmcqlwVba30taLlD9LG-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-5" value="指导页面&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;PhtvdpebAodsUyxtH6CcMfSinUc&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;Guide Page&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+a&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7514219773753098244&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;isEqualBlockSelection&amp;quot;:false,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;dd72cf7e-4d2a-457d-b6a5-932b17c0c409&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:4,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:10,&amp;quot;end&amp;quot;:20},&amp;quot;recordId&amp;quot;:&amp;quot;TfoJdAcdQopRXdxVNVGcUDlkn7g&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Guide Page&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;上方：一些滑块放指导内容&lt;/span&gt;&lt;/div&gt;&lt;div&gt;下方按钮：&lt;span style=&quot;background-color: initial;&quot;&gt;跳过、登录、注册&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -44,7 +44,7 @@
         <mxCell id="OEmcqlwVba30taLlD9LG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="OEmcqlwVba30taLlD9LG-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="x5adS6wBgyTgoFWoJzKV-55">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="x5adS6wBgyTgoFWoJzKV-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-9" value="首页Home Page" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEmcqlwVba30taLlD9LG-35" target="OEmcqlwVba30taLlD9LG-59">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-35" target="OEmcqlwVba30taLlD9LG-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-35" value="注册登录页面Logup And&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Login Page&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;PhtvdpebAodsUyxtH6CcMfSinUc&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;Login Page&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+a&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7514219773753098244&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;isEqualBlockSelection&amp;quot;:false,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;3bc77625-25ac-41e1-91c3-405dde892642&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:12,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:30,&amp;quot;end&amp;quot;:40},&amp;quot;recordId&amp;quot;:&amp;quot;VSbyd3pv9oXmatx5ndoc7j6ynrc&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -221,7 +221,7 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-55" value="&lt;div&gt;报告页面Report Page&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="115.13" y="885" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-56" target="x5adS6wBgyTgoFWoJzKV-60">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="x5adS6wBgyTgoFWoJzKV-56" target="x5adS6wBgyTgoFWoJzKV-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-56" value="健康数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -308,10 +308,10 @@
             <mxPoint x="340" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-3" value="&lt;div&gt;睡眠质量总得分（多指标模型）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;总睡眠时长&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;入睡用时&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;觉醒次数&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;浅睡眠阶段1、2&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;深睡眠&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;快速眼动期&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ces&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-3" value="&lt;div&gt;睡眠质量总得分（多指标模型）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;总睡眠时长&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;入睡用时&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;觉醒次数&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;浅睡眠阶段1、2&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;深睡眠&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;快速眼动期&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ces&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="572.38" y="735" width="190" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.251;entryY=0.457;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-56" target="6O7jYfjr5g0XonRrvN5Y-3">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.251;entryY=0.457;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="x5adS6wBgyTgoFWoJzKV-56" target="6O7jYfjr5g0XonRrvN5Y-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="459.63" y="890" as="sourcePoint" />
             <mxPoint x="509.63" y="840" as="targetPoint" />
@@ -322,34 +322,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="OEmcqlwVba30taLlD9LG-27">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="OEmcqlwVba30taLlD9LG-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="550" as="sourcePoint" />
             <mxPoint x="230" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="OEmcqlwVba30taLlD9LG-24">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="OEmcqlwVba30taLlD9LG-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="540" as="sourcePoint" />
             <mxPoint x="340" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-9" value="每日登录&lt;br&gt;给予用户反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-9" value="每日登录&lt;br&gt;给予用户反馈" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="164.63" y="460" width="85.37" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="6O7jYfjr5g0XonRrvN5Y-9">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="6O7jYfjr5g0XonRrvN5Y-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="560" as="sourcePoint" />
             <mxPoint x="350" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6O7jYfjr5g0XonRrvN5Y-9" target="6O7jYfjr5g0XonRrvN5Y-12">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6O7jYfjr5g0XonRrvN5Y-9" target="6O7jYfjr5g0XonRrvN5Y-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="560" as="sourcePoint" />
             <mxPoint x="290" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-12" value="睡眠质量上升 or 下降&lt;div&gt;简短建议&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-12" value="睡眠质量上升 or 下降&lt;div&gt;简短建议&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="301" y="455" width="129" height="50" as="geometry" />
         </mxCell>
       </root>
