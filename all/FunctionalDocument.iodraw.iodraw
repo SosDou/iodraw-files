@@ -337,8 +337,8 @@
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-11" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;周、月数据图&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.一段时间段的平均值&lt;/div&gt;&lt;div&gt;2.每一天的柱状图&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="1023.0000000000002" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HFUhyjvVrJ5VhTOybcHS-13" value="当晚睡眠质量图&lt;br&gt;&lt;br&gt;包含内容&lt;div&gt;N1 → N2 → N3 → REM循环&lt;br&gt;&lt;/div&gt;&lt;div&gt;何时闭眼、入睡、中途觉醒、ces介入&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1008" width="220" height="90" as="geometry" />
+        <mxCell id="HFUhyjvVrJ5VhTOybcHS-13" value="当晚睡眠质量图&lt;br&gt;&lt;br&gt;包含内容&lt;div&gt;1.N1 → N2 → N3 → REM循环&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.何时闭眼、入睡、中途觉醒、ces介入&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1008" width="230" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
