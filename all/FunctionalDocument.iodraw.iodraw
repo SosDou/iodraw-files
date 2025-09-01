@@ -307,8 +307,8 @@
             <mxPoint x="550.06" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HFUhyjvVrJ5VhTOybcHS-5" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;睡眠质量得分&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong data-end=&quot;199&quot; data-start=&quot;189&quot;&gt;关键指标速览&lt;/strong&gt;：总时长、&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;入睡用时&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361.1" y="650" width="194.31" height="50" as="geometry" />
+        <mxCell id="HFUhyjvVrJ5VhTOybcHS-5" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;睡眠质量得分&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span data-end=&quot;199&quot; data-start=&quot;189&quot;&gt;关键指标速览&lt;/span&gt;：&lt;/b&gt;总时长、&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;入睡用时&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325.69" y="650" width="194.31" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-55" target="HFUhyjvVrJ5VhTOybcHS-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
