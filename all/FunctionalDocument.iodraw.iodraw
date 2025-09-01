@@ -358,7 +358,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-12" value="睡眠质量上升 or 下降&lt;div&gt;简短建议&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="301" y="455" width="138.74" height="50" as="geometry" />
+          <mxGeometry x="301" y="455" width="129" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
