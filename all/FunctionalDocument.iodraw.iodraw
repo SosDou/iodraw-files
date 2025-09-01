@@ -209,7 +209,7 @@
           <mxGeometry x="325.69" y="780" width="184.37" height="145" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-57" value="分析&lt;div&gt;1.呈现客观指标&lt;/div&gt;&lt;div&gt;2.说明指标背后的意义&lt;/div&gt;&lt;div&gt;“入睡潜伏期 35 分钟 → 入睡偏慢”&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="325.69" y="930" width="444.31" height="72.5" as="geometry" />
+          <mxGeometry x="325.69" y="930" width="214.31" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-58" value="针对性建议&lt;div&gt;1.短期改善措施&lt;/div&gt;&lt;div&gt;2.中长期方案&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325.69" y="1022.5" width="101.71" height="55" as="geometry" />
