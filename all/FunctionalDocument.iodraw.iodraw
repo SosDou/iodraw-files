@@ -340,6 +340,9 @@
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-17" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="1075" width="20" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="HFUhyjvVrJ5VhTOybcHS-18" value="入睡潜伏期图&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;日&lt;/div&gt;&lt;div&gt;1.从上床时间到入睡的时间&lt;/div&gt;&lt;div&gt;2.睡眠深度&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1018" width="170" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
