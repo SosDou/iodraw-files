@@ -57,10 +57,10 @@
           <mxGeometry x="125.5" y="1462.25" width="110" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-21" value="蓝牙页面Bluetooth Page" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300.13" y="520" width="148.25" height="30" as="geometry" />
+          <mxGeometry x="301" y="565" width="148.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-23" value="设备开启按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="164.63" y="565" width="75.5" height="30" as="geometry" />
+          <mxGeometry x="164.63" y="520" width="75.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="x5adS6wBgyTgoFWoJzKV-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -74,8 +74,8 @@
             <mxPoint x="129.63" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OEmcqlwVba30taLlD9LG-27" value="选择设备的模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="164.63" y="620" width="105" height="30" as="geometry" />
+        <mxCell id="OEmcqlwVba30taLlD9LG-27" value="模式切换" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="164.63" y="620" width="75.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-31" target="OEmcqlwVba30taLlD9LG-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-71" value="蓝牙连接按钮&lt;div&gt;设备电量&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="164.63" y="590" width="91.75" height="40" as="geometry" />
+          <mxGeometry x="164.63" y="560" width="91.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-95" value="用户提交问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="248.25" y="1655" width="95.5" height="30" as="geometry" />
