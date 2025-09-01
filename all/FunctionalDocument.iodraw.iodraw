@@ -216,7 +216,7 @@
           <mxGeometry x="542.38" y="510" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-55" value="&lt;div&gt;报告页面Report Page&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="115.13" y="885" width="130" height="30" as="geometry" />
+          <mxGeometry x="115.5" y="962.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="x5adS6wBgyTgoFWoJzKV-56" target="x5adS6wBgyTgoFWoJzKV-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
