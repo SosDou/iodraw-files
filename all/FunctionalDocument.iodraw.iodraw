@@ -205,7 +205,7 @@
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="x5adS6wBgyTgoFWoJzKV-56" target="x5adS6wBgyTgoFWoJzKV-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-56" value="健康数据&lt;div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;总睡眠时长&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;入睡用时&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;觉醒次数&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;ces&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-56" value="健康数据(日周月数据图)&lt;div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;总睡眠时长(日:清醒时间、快速动眼等)&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;入睡用时&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;觉醒次数&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;ces&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325.69" y="780" width="184.37" height="145" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-57" value="分析&lt;div&gt;1.呈现客观指标&lt;/div&gt;&lt;div&gt;2.对这项数据进行分析&lt;/div&gt;&lt;div&gt;“入睡潜伏期 35 分钟 → 入睡偏慢”&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -215,7 +215,7 @@
           <mxGeometry x="325.69" y="710" width="101.71" height="55" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-60" value="数值、柱状图&lt;br&gt;点击跳转到详细页面&lt;div&gt;1.该项数据的分析&lt;/div&gt;&lt;div&gt;2.该项数据背后的意义&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="542.23" y="810" width="162.06" height="85" as="geometry" />
+          <mxGeometry x="619.9100000000001" y="810" width="162.06" height="85" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-63" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x5adS6wBgyTgoFWoJzKV-55" target="x5adS6wBgyTgoFWoJzKV-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
