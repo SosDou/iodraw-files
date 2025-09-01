@@ -318,7 +318,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-3" value="&lt;div&gt;睡眠质量总得分（多指标模型）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;总睡眠时长&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;入睡用时&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;觉醒次数&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;浅睡眠阶段1、2&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;深睡眠&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;快速眼动期&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ces&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="572.38" y="690" width="190" height="230" as="geometry" />
+          <mxGeometry x="572.38" y="735" width="190" height="230" as="geometry" />
         </mxCell>
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-56" target="6O7jYfjr5g0XonRrvN5Y-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
