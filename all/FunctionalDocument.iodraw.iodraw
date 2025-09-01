@@ -236,7 +236,7 @@
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5adS6wBgyTgoFWoJzKV-56" target="x5adS6wBgyTgoFWoJzKV-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-56" value="&lt;div&gt;综合评分&lt;/div&gt;&lt;div&gt;睡眠质量&lt;/div&gt;&lt;div&gt;睡眠认知&lt;/div&gt;&lt;div&gt;睡眠习惯&lt;/div&gt;&lt;div&gt;其他健康数据（用户选择是否置顶）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-56" value="健康数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280.75" y="920" width="201.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="x5adS6wBgyTgoFWoJzKV-57" target="x5adS6wBgyTgoFWoJzKV-66" edge="1">
