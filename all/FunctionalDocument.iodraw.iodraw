@@ -337,6 +337,9 @@
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-11" value="日数据图&lt;div&gt;总睡眠时长（N1 → N2 → N3 → REM循环）&lt;/div&gt;&lt;div&gt;入睡用时（何时闭眼、何时入睡）&lt;/div&gt;&lt;div&gt;觉醒次数（当晚何时觉醒）&lt;/div&gt;&lt;div&gt;ces（在上图中显示介入的时间段，在下面显示效果，如：入睡潜伏期缩短到 15 分钟，深睡眠提升到 20%）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;周、月数据图&lt;/div&gt;&lt;div&gt;这个时间段的平均值&lt;/div&gt;&lt;div&gt;每一天的柱状图&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="542.38" y="645.0000000000002" width="590" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="HFUhyjvVrJ5VhTOybcHS-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1038" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
