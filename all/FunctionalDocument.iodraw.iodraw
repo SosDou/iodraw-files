@@ -206,7 +206,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-56" value="健康数据(日周月数据图)&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;1.当晚的睡眠质量图&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;2.总睡眠时长&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;3.入睡潜伏期&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;4.睡醒次数&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="321.6" y="777.5" width="234.31" height="82.5" as="geometry" />
+          <mxGeometry x="328.07" y="791.25" width="148.4" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-57" value="分析&lt;div&gt;1.呈现客观指标（&lt;span style=&quot;background-color: initial;&quot;&gt;入睡潜伏期 35 分钟&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2.对数据进行分析（&lt;span style=&quot;background-color: initial;&quot;&gt;入睡偏慢&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="328.07" y="900" width="214.31" height="60" as="geometry" />
