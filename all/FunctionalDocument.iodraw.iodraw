@@ -60,7 +60,7 @@
           <mxGeometry x="301" y="565" width="148.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-23" value="设备开启按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="164.63" y="520" width="75.5" height="30" as="geometry" />
+          <mxGeometry x="160" y="520" width="75.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="x5adS6wBgyTgoFWoJzKV-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-27" value="模式切换" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="164.63" y="620" width="75.37" height="30" as="geometry" />
+          <mxGeometry x="160.13" y="620" width="75.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-31" target="OEmcqlwVba30taLlD9LG-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-71" value="蓝牙连接按钮&lt;div&gt;设备电量&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="164.63" y="560" width="91.75" height="40" as="geometry" />
+          <mxGeometry x="160" y="560" width="91.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-95" value="用户提交问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="248.25" y="1655" width="95.5" height="30" as="geometry" />
@@ -281,7 +281,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-9" value="每日登录&lt;br&gt;给予用户反馈" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="164.63" y="460" width="85.37" height="40" as="geometry" />
+          <mxGeometry x="160" y="460" width="85.37" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="6O7jYfjr5g0XonRrvN5Y-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -296,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-12" value="睡眠质量上升 or 下降&lt;div&gt;继续保持健康睡眠&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="301" y="455" width="129" height="50" as="geometry" />
+          <mxGeometry x="269.25" y="455" width="129" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-1" value="专业文章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328.07" y="989.9999999999999" width="60" height="30" as="geometry" />
