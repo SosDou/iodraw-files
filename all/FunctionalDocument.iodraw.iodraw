@@ -62,18 +62,15 @@
         <mxCell id="OEmcqlwVba30taLlD9LG-23" value="设备开启按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="242.38" y="565" width="75.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OEmcqlwVba30taLlD9LG-24" value="开头" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="164.63" y="540" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OEmcqlwVba30taLlD9LG-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-24" target="x5adS6wBgyTgoFWoJzKV-71" edge="1">
+        <mxCell id="OEmcqlwVba30taLlD9LG-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="x5adS6wBgyTgoFWoJzKV-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="79.63" y="650" as="sourcePoint" />
+            <mxPoint x="214.6300000000001" y="555" as="sourcePoint" />
             <mxPoint x="129.63" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OEmcqlwVba30taLlD9LG-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-24" target="OEmcqlwVba30taLlD9LG-23" edge="1">
+        <mxCell id="OEmcqlwVba30taLlD9LG-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="OEmcqlwVba30taLlD9LG-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="79.63" y="650" as="sourcePoint" />
+            <mxPoint x="214.6300000000001" y="555" as="sourcePoint" />
             <mxPoint x="129.63" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -283,10 +280,10 @@
             <mxPoint x="230" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6O7jYfjr5g0XonRrvN5Y-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-9" target="OEmcqlwVba30taLlD9LG-24" edge="1">
+        <mxCell id="6O7jYfjr5g0XonRrvN5Y-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="540" as="sourcePoint" />
-            <mxPoint x="340" y="490" as="targetPoint" />
+            <mxPoint x="164.6300000000001" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-9" value="每日登录&lt;br&gt;给予用户反馈" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -359,7 +356,7 @@
           <mxGeometry x="415" y="978" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-24" value="切换到更长时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="958" width="110" height="30" as="geometry" />
+          <mxGeometry x="580" y="980" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
