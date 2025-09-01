@@ -370,7 +370,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6O7jYfjr5g0XonRrvN5Y-12" value="睡眠质量上升 or 下降" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291.26" y="460" width="84.5" height="40" as="geometry" />
+          <mxGeometry x="291.26" y="430" width="178.74" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
