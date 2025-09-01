@@ -206,7 +206,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-56" value="健康数据(日周月数据图)&lt;div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;总睡眠时长(日:清醒时间、快速动眼等)&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;入睡用时&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;觉醒次数&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;ces&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="325.69" y="780" width="184.37" height="145" as="geometry" />
+          <mxGeometry x="325.69" y="800" width="214.31" height="105" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-57" value="分析&lt;div&gt;1.呈现客观指标&lt;/div&gt;&lt;div&gt;2.对这项数据进行分析&lt;/div&gt;&lt;div&gt;“入睡潜伏期 35 分钟 → 入睡偏慢”&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325.69" y="930" width="214.31" height="72.5" as="geometry" />
