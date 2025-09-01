@@ -236,7 +236,7 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-58" value="针对性建议&lt;div&gt;1.短期改善措施&lt;/div&gt;&lt;div&gt;2.中长期方案&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="278.29" y="965" width="101.71" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-60" value="数值、柱状图&lt;br&gt;点击跳转到详细页面&lt;div&gt;1.该项数据的分析&lt;/div&gt;&lt;div&gt;2.该项数据背后的意义&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-60" value="数值、柱状图&lt;br&gt;点击跳转到详细页面&lt;div&gt;1.该项数据的分析&lt;/div&gt;&lt;div&gt;2.该项数据背后的意义（比如深睡眠不足 → 身体恢复差）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="377.88" y="792.5" width="194.25" height="95" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-63" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x5adS6wBgyTgoFWoJzKV-55" target="x5adS6wBgyTgoFWoJzKV-56" edge="1">
