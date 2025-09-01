@@ -231,7 +231,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-57" value="分析、报告&lt;div&gt;1.呈现客观指标&lt;/div&gt;&lt;div&gt;2.说明指标背后的意义&lt;/div&gt;&lt;div&gt;3.进行总结报告&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="275.63" y="887.5" width="184.37" height="102.5" as="geometry" />
+          <mxGeometry x="275.63" y="887.5" width="124.37" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-58" value="详细建议" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="276.07" y="1010" width="64.37" height="30" as="geometry" />
@@ -258,7 +258,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-66" value="消息推送" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="923.75" width="68" height="30" as="geometry" />
+          <mxGeometry x="430" y="903.75" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x5adS6wBgyTgoFWoJzKV-71" target="OEmcqlwVba30taLlD9LG-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
