@@ -74,8 +74,8 @@
             <mxPoint x="129.63" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OEmcqlwVba30taLlD9LG-27" value="模式切换" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160.13" y="620" width="75.37" height="30" as="geometry" />
+        <mxCell id="OEmcqlwVba30taLlD9LG-27" value="常用模式快速切换" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160.13" y="620" width="109.87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-31" target="OEmcqlwVba30taLlD9LG-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
