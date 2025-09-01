@@ -233,8 +233,8 @@
         <mxCell id="x5adS6wBgyTgoFWoJzKV-57" value="分析、报告&lt;div&gt;1.呈现客观指标&lt;/div&gt;&lt;div&gt;2.说明指标背后的意义&lt;/div&gt;&lt;div&gt;3.进行总结报告&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275.63" y="887.5" width="124.37" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="x5adS6wBgyTgoFWoJzKV-58" value="针对性建议" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="278.29" y="965" width="73.93" height="30" as="geometry" />
+        <mxCell id="x5adS6wBgyTgoFWoJzKV-58" value="针对性建议&lt;div&gt;1.短期改善措施&lt;/div&gt;&lt;div&gt;2.中长期方案&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="278.29" y="965" width="121.71" height="65" as="geometry" />
         </mxCell>
         <mxCell id="x5adS6wBgyTgoFWoJzKV-60" value="数值、柱状图&lt;br&gt;点击跳转到详细页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372" y="830" width="163" height="40" as="geometry" />
