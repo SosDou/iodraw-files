@@ -346,6 +346,9 @@
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-19" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;周、月&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;1.一段时间段的平均值&lt;/div&gt;&lt;div&gt;2.每一天的柱状图&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="226" y="1139" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HFUhyjvVrJ5VhTOybcHS-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1048" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
