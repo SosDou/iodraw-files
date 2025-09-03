@@ -4,11 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OEmcqlwVba30taLlD9LG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-1" target="OEmcqlwVba30taLlD9LG-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OEmcqlwVba30taLlD9LG-1" value="基本框架：flutter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="35" y="230" width="101" height="30" as="geometry" />
+        <mxCell id="OEmcqlwVba30taLlD9LG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="OEmcqlwVba30taLlD9LG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85.5" y="260" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OEmcqlwVba30taLlD9LG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEmcqlwVba30taLlD9LG-2" target="OEmcqlwVba30taLlD9LG-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -343,28 +342,28 @@
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-26" value="更多模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="298.75" y="585" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vkhZbcr-OI7u5hrxmh2J-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vkhZbcr-OI7u5hrxmh2J-1" target="vkhZbcr-OI7u5hrxmh2J-3">
+        <mxCell id="vkhZbcr-OI7u5hrxmh2J-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vkhZbcr-OI7u5hrxmh2J-1" target="vkhZbcr-OI7u5hrxmh2J-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vkhZbcr-OI7u5hrxmh2J-1" value="设备读取到脑电波" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vkhZbcr-OI7u5hrxmh2J-1" value="设备读取到脑电波" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1620" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="vkhZbcr-OI7u5hrxmh2J-2" value="算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vkhZbcr-OI7u5hrxmh2J-2" value="算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="1590" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vkhZbcr-OI7u5hrxmh2J-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vkhZbcr-OI7u5hrxmh2J-3" target="vkhZbcr-OI7u5hrxmh2J-5">
+        <mxCell id="vkhZbcr-OI7u5hrxmh2J-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vkhZbcr-OI7u5hrxmh2J-3" target="vkhZbcr-OI7u5hrxmh2J-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vkhZbcr-OI7u5hrxmh2J-3" value="深度学习模型进行数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vkhZbcr-OI7u5hrxmh2J-3" value="深度学习模型进行数据处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="235.63" y="1620" width="154.37" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="vkhZbcr-OI7u5hrxmh2J-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vkhZbcr-OI7u5hrxmh2J-5" target="vkhZbcr-OI7u5hrxmh2J-7">
+        <mxCell id="vkhZbcr-OI7u5hrxmh2J-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vkhZbcr-OI7u5hrxmh2J-5" target="vkhZbcr-OI7u5hrxmh2J-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vkhZbcr-OI7u5hrxmh2J-5" value="输出睡眠时长、夜醒次数、睡眠分期曲线等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vkhZbcr-OI7u5hrxmh2J-5" value="输出睡眠时长、夜醒次数、睡眠分期曲线等" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="424.5" y="1620" width="245.5" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="vkhZbcr-OI7u5hrxmh2J-7" value="绘制成图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vkhZbcr-OI7u5hrxmh2J-7" value="绘制成图表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="715.38" y="1623" width="120" height="28" as="geometry" />
         </mxCell>
       </root>
