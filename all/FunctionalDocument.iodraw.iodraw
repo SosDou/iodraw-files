@@ -322,6 +322,9 @@
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-26" value="更多模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="298.75" y="585" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="K0O3FOU8cQAcDcl8lU0D-1" value="睡眠质量当日图&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;X轴 一晚的时间线，标出&lt;span style=&quot;background-color: initial;&quot;&gt;何时&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;N1 → N2 → N3 → REM循环、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;闭眼、入睡、中途睡醒、ces介入&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Y轴 睡眠深度&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="479" y="800" width="520" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
