@@ -343,6 +343,9 @@
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-26" value="更多模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="298.75" y="585" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vkhZbcr-OI7u5hrxmh2J-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vkhZbcr-OI7u5hrxmh2J-1" target="vkhZbcr-OI7u5hrxmh2J-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vkhZbcr-OI7u5hrxmh2J-1" value="设备读取到脑电波" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1620" width="120" height="34" as="geometry" />
         </mxCell>
@@ -350,7 +353,7 @@
           <mxGeometry x="80" y="1590" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vkhZbcr-OI7u5hrxmh2J-3" value="深度学习模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235.63" y="1594" width="120" height="60" as="geometry" />
+          <mxGeometry x="235.63" y="1620" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
