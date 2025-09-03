@@ -343,7 +343,7 @@
         <mxCell id="HFUhyjvVrJ5VhTOybcHS-26" value="更多模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="298.75" y="585" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vkhZbcr-OI7u5hrxmh2J-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vkhZbcr-OI7u5hrxmh2J-1" value="设备读取到脑电波" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1594" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vkhZbcr-OI7u5hrxmh2J-2" value="算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
