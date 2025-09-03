@@ -50,7 +50,7 @@
         <mxCell id="ve1cV4I3jxPhecxJcPPQ-9" value="REM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="460" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ve1cV4I3jxPhecxJcPPQ-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ve1cV4I3jxPhecxJcPPQ-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ve1cV4I3jxPhecxJcPPQ-8" target="ve1cV4I3jxPhecxJcPPQ-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="470" as="sourcePoint" />
             <mxPoint x="580" y="420" as="targetPoint" />
