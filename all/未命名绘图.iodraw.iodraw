@@ -12,8 +12,8 @@
         </mxCell>
         <mxCell id="ve1cV4I3jxPhecxJcPPQ-2" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="570" as="sourcePoint" />
-            <mxPoint x="440" y="520" as="targetPoint" />
+            <mxPoint x="450" y="428" as="sourcePoint" />
+            <mxPoint x="500" y="378" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ve1cV4I3jxPhecxJcPPQ-3" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
@@ -42,7 +42,7 @@
           <mxGeometry x="660" y="410" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ve1cV4I3jxPhecxJcPPQ-7" value="N3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="348" width="40" height="30" as="geometry" />
+          <mxGeometry x="600" y="348" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
