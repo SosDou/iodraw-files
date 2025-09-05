@@ -28,8 +28,8 @@
         <mxCell id="caB1hqDf4WN0FDTDzLH5-10" value="TypeORM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="408" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="caB1hqDf4WN0FDTDzLH5-11" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="270" y="270" width="120" height="148" as="geometry" />
+        <mxCell id="caB1hqDf4WN0FDTDzLH5-11" value="用户注册/登录" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="180" height="148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
