@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="caB1hqDf4WN0FDTDzLH5-2" value="NestJS API 网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="418" width="100" height="24" as="geometry" />
+          <mxGeometry x="322.5" y="418" width="100" height="24" as="geometry" />
         </mxCell>
         <mxCell id="caB1hqDf4WN0FDTDzLH5-3" value="注册/登录/注销&lt;div&gt;蓝牙连接 EEG 设备 (flutter_blue_plus)&lt;br&gt;&lt;/div&gt;&lt;div&gt;EEG 数据上传&lt;br&gt;&lt;/div&gt;&lt;div&gt;曲线展示 (fl_chart)&lt;br&gt;&lt;/div&gt;&lt;div&gt;睡眠报告&lt;br&gt;&lt;/div&gt;&lt;div&gt;本地缓存离线数据 (sqflite)&lt;br&gt;&lt;/div&gt;&lt;div&gt;本地通知 (flutter_local_notifications)&lt;br&gt;&lt;/div&gt;&lt;div&gt;多语言支持(getx)&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="5" y="260" width="220" height="160" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="caB1hqDf4WN0FDTDzLH5-10" value="TypeORM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="408" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="caB1hqDf4WN0FDTDzLH5-11" value="用户注册/登录、JWT 鉴权&lt;div&gt;用户信息管理 (昵称、邮箱、头像)&lt;br&gt;&lt;/div&gt;&lt;div&gt;接收 EEG 数据、投递分析任务到 RabbitMQ&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="caB1hqDf4WN0FDTDzLH5-11" value="用户注册/登录、JWT 鉴权&lt;div&gt;用户信息管理 (昵称、邮箱、头像)&lt;br&gt;&lt;/div&gt;&lt;div&gt;接收 EEG 数据、投递分析任务到 RabbitMQ&lt;br&gt;&lt;/div&gt;&lt;div&gt;查询分析结果、生成文本报告（模板+语言模型 API）&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="235" y="270" width="275" height="148" as="geometry" />
         </mxCell>
       </root>
