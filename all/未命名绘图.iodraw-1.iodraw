@@ -20,7 +20,7 @@
           <mxGeometry x="290" y="420" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="caB1hqDf4WN0FDTDzLH5-8" value="user 用户表&lt;div&gt;device 设备表&lt;/div&gt;&lt;div&gt;sleep_depth_data 睡眠深度数据表&lt;/div&gt;&lt;div&gt;ces_data ces时间表&lt;/div&gt;&lt;div&gt;awake_data 中途睡醒数据表&lt;/div&gt;&lt;div&gt;sleep_daily_data 每日睡眠数据表&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="255" y="338" width="245" height="80" as="geometry" />
+          <mxGeometry x="255" y="300" width="195" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
