@@ -19,8 +19,8 @@
         <mxCell id="caB1hqDf4WN0FDTDzLH5-7" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="420" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="caB1hqDf4WN0FDTDzLH5-8" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="300" y="330" width="120" height="80" as="geometry" />
+        <mxCell id="caB1hqDf4WN0FDTDzLH5-8" value="user 用户表&lt;div&gt;device 设备表&lt;/div&gt;&lt;div&gt;sleep_depth_data 睡眠深度数据表&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="255" y="338" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
