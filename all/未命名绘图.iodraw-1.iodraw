@@ -31,8 +31,8 @@
         <mxCell id="caB1hqDf4WN0FDTDzLH5-11" value="用户注册/登录、JWT 鉴权&lt;div&gt;用户信息管理 (昵称、邮箱、头像)&lt;br&gt;&lt;/div&gt;&lt;div&gt;接收 EEG 数据、投递分析任务到 RabbitMQ&lt;br&gt;&lt;/div&gt;&lt;div&gt;查询分析结果、生成文本报告（模板+语言模型 API）&lt;br&gt;&lt;/div&gt;&lt;div&gt;RabbitMQ 消息队列、异步任务调度&lt;br&gt;&lt;/div&gt;&lt;div&gt;Redis 缓存用户会话、热点数据&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="295" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="caB1hqDf4WN0FDTDzLH5-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="caB1hqDf4WN0FDTDzLH5-13" value="Python 数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
