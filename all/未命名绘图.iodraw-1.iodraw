@@ -25,8 +25,8 @@
         <mxCell id="caB1hqDf4WN0FDTDzLH5-8" value="user 用户表&lt;div&gt;device 设备表&lt;/div&gt;&lt;div&gt;sleep_depth_data 睡眠深度数据表&lt;/div&gt;&lt;div&gt;ces_data ces时间表&lt;/div&gt;&lt;div&gt;awake_data 中途睡醒数据表&lt;/div&gt;&lt;div&gt;sleep_daily_data 每日睡眠数据表&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="302" width="195" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="caB1hqDf4WN0FDTDzLH5-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="408" width="50" height="30" as="geometry" />
+        <mxCell id="caB1hqDf4WN0FDTDzLH5-10" value="TypeORM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="408" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
