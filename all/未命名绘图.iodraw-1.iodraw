@@ -10,7 +10,7 @@
         <mxCell id="caB1hqDf4WN0FDTDzLH5-2" value="NestJS API 网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="100" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="caB1hqDf4WN0FDTDzLH5-3" value="注册/登录/注销&lt;div&gt;蓝牙连接 EEG 设备 (flutter_blue_plus)&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="caB1hqDf4WN0FDTDzLH5-3" value="注册/登录/注销&lt;div&gt;蓝牙连接 EEG 设备 (flutter_blue_plus)&lt;br&gt;&lt;/div&gt;&lt;div&gt;EEG 数据上传&lt;br&gt;&lt;/div&gt;&lt;div&gt;曲线展示 (fl_chart)&lt;br&gt;&lt;/div&gt;&lt;div&gt;睡眠报告&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="60" y="340" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
