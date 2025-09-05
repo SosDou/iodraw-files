@@ -34,15 +34,10 @@
         <mxCell id="caB1hqDf4WN0FDTDzLH5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="caB1hqDf4WN0FDTDzLH5-13" target="caB1hqDf4WN0FDTDzLH5-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="caB1hqDf4WN0FDTDzLH5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="caB1hqDf4WN0FDTDzLH5-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="515.1428571428571" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="caB1hqDf4WN0FDTDzLH5-13" value="Python 数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="500" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="caB1hqDf4WN0FDTDzLH5-16" value="&lt;div&gt;EEG 数据预处理 (滤波、分 epoch)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;深度学习模型 (DeepSleepNet/TinySleepNet)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;输出睡眠分期、总睡眠时长、夜醒次数、各阶段比例&lt;/div&gt;&lt;div&gt;&amp;nbsp;将分析结果写回 MySQL&lt;/div&gt;&lt;div&gt;可通过 HTTP / gRPC 提供 API 给 NestJS 调用&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="caB1hqDf4WN0FDTDzLH5-16" value="&lt;div&gt;EEG 数据预处理 (滤波、分 epoch)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;深度学习模型 (DeepSleepNet / TinySleepNet)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;输出睡眠分期、总睡眠时长、夜醒次数、各阶段比例&lt;/div&gt;&lt;div&gt;&amp;nbsp;将分析结果写回 MySQL&lt;/div&gt;&lt;div&gt;通过 HTTP 提供 API 给 NestJS 调用&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="530" width="310" height="90" as="geometry" />
         </mxCell>
       </root>
