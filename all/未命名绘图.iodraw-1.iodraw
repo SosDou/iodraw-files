@@ -16,7 +16,7 @@
         <mxCell id="caB1hqDf4WN0FDTDzLH5-3" value="注册/登录/注销&lt;div&gt;蓝牙连接 EEG 设备 (flutter_blue_plus)&lt;br&gt;&lt;/div&gt;&lt;div&gt;EEG 数据上传&lt;br&gt;&lt;/div&gt;&lt;div&gt;曲线展示 (fl_chart)&lt;br&gt;&lt;/div&gt;&lt;div&gt;睡眠报告&lt;br&gt;&lt;/div&gt;&lt;div&gt;本地缓存离线数据 (sqflite)&lt;br&gt;&lt;/div&gt;&lt;div&gt;本地通知 (flutter_local_notifications)&lt;br&gt;&lt;/div&gt;&lt;div&gt;多语言支持(getx)&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="5" y="260" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="caB1hqDf4WN0FDTDzLH5-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="caB1hqDf4WN0FDTDzLH5-7" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
