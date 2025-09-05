@@ -37,8 +37,8 @@
         <mxCell id="caB1hqDf4WN0FDTDzLH5-13" value="Python 数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="500" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="caB1hqDf4WN0FDTDzLH5-15" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.25;position2=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="520" width="120" height="80" as="geometry" />
+        <mxCell id="caB1hqDf4WN0FDTDzLH5-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="558" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
